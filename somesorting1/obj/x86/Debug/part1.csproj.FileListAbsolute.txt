@@ -1,0 +1,6 @@
+C:\Users\umarf\Desktop\job applications\jobtests\Norway_rubrikk\bin\Debug\ConsoleApplication.exe
+C:\Users\umarf\Desktop\job applications\jobtests\Norway_rubrikk\bin\Debug\ConsoleApplication.pdb
+C:\Users\umarf\Desktop\job applications\jobtests\Norway_rubrikk\obj\x86\Debug\part1.csprojResolveAssemblyReference.cache
+C:\Users\umarf\Desktop\job applications\jobtests\Norway_rubrikk\obj\x86\Debug\part1.csproj.CoreCompileInputs.cache
+C:\Users\umarf\Desktop\job applications\jobtests\Norway_rubrikk\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\umarf\Desktop\job applications\jobtests\Norway_rubrikk\obj\x86\Debug\ConsoleApplication.pdb
